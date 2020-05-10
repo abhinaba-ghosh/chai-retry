@@ -34,7 +34,7 @@ you can raise any issue [here](https://github.com/abhinaba-ghosh/chai-retry/issu
 
 ## Contribution
 
-Any pull request is welcome.
+Pull requests are welcome.
 
 If it works for you , give a [Star](https://github.com/abhinaba-ghosh/chai-retry)!
 
