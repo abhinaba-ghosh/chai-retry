@@ -2,7 +2,7 @@
 
 A chai plugin to retry assertions.
 
-It has been a common problem with chai assertions that get failed due to the asynchronous behavior of an API/Web. Mocha somehow manage the problem with retries the whole function. But, what if chai itself be the smarter guy and retry its assertions on its own? This plugin will help you exactly achieve the same.
+It has been a common problem with chai assertions that it fails due to the asynchronous behavior of an API/Web. Mocha somehow manage the problem with retries the whole function. But, what if chai itself be the smarter guy and retry its assertions on its own? This plugin will help you exactly achieve the same. This will reduce the falkiness in your test suite.
 
 ## Install the plugin
 
@@ -22,7 +22,7 @@ chai.config.interval = 5000 // the polling interval in ms between each retry, de
 
 ## Usage
 
-Once the configuration is set, you can perform any native chai assertion. Each assertion will be retried for specified retry count in case assertion is getting failed. As soon as the assertion gets passed, it will break the chain and the feedback. So, this plugin will retry the assertion when and only when the assertion gets failed.
+Once the configuration is set, you can perform any native chai assertion. Each assertion will be retried for specified retry count in case assertion is failing. As soon as the assertion succeeds, it will break the chain and the send feedback. So, this plugin will retry the assertion when and only when the assertion fails.
 
 ## Demo
 
