@@ -38,4 +38,4 @@ Any pull request is welcome.
 
 If it works for you , give a [Star](https://github.com/abhinaba-ghosh/chai-retry)!
 
-_- Copyright &copy; 2029- [Abhinaba Ghosh](https://www.linkedin.com/in/abhinaba-ghosh-9a2ab8a0/)_
+_- Copyright &copy; 2020- [Abhinaba Ghosh](https://www.linkedin.com/in/abhinaba-ghosh-9a2ab8a0/)_
