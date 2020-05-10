@@ -1,0 +1,25 @@
+{
+  "name": "chai-retry",
+  "version": "0.1.1",
+  "keywords": ["chai", "testing", "retry", "chai-plugin", "rerun"],
+  "description": "retry mechanism for chai assertion",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/onechiporenko/chai-string.git"
+  },
+  "author": {
+    "name": "Abhinaba Ghosh <askabhinaba@gmail.com>",
+    "url": "https://github.com/onechiporenko"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mocha": "^7.0.2",
+    "chai": "^4.1.2",
+    "mocha": "^7.1.2",
+    "ts-node": "^8.10.1"
+  }
+}
