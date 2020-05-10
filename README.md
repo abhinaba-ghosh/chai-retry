@@ -30,12 +30,12 @@ Once the configuration is set, you can perform any native chai assertion. Each a
 
 ## Tell me your issues
 
-you can raise any issue [here](https://github.com/abhinaba1080/protractor-react-selector/issues)
+you can raise any issue [here](https://github.com/abhinaba-ghosh/chai-retry/issues)
 
 ## Contribution
 
 Any pull request is welcome.
 
-If it works for you , give a [Star](https://github.com/abhinaba1080/protractor-react-selector)!
+If it works for you , give a [Star](https://github.com/abhinaba-ghosh/chai-retry)!
 
 _- Copyright &copy; 2029- [Abhinaba Ghosh](https://www.linkedin.com/in/abhinaba-ghosh-9a2ab8a0/)_

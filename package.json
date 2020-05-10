@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/onechiporenko/chai-string.git"
+    "url": "https://github.com/abhinaba-ghosh/chai-retry.git"
   },
   "author": {
     "name": "Abhinaba Ghosh <askabhinaba@gmail.com>",
-    "url": "https://github.com/onechiporenko"
+    "url": "https://github.com/abhinaba-ghosh"
   },
   "license": "MIT",
   "devDependencies": {
